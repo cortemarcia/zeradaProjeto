@@ -22,7 +22,7 @@
     "deep-extend": "^0.6.0",
     "duplexer3": "^0.1.4",
     "escape-string-regexp": "^1.0.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "get-stream": "^3.0.0",
     "fsevents": "^2.1.2",
     "graceful-fs": "^4.2.3",
